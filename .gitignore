@@ -1,0 +1,6 @@
+# ignore MacOS directory files :
+.DS_Store
+
+# ignore checkpoint files inside directory '':
+.ipynb_checkpoints/**
+
